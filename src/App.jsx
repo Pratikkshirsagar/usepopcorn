@@ -114,6 +114,7 @@ function Numresults({ movies }) {
     </p>
   );
 }
+
 function Main({ children }) {
   return <main className='main'>{children}</main>;
 }
